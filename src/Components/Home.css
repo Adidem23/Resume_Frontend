@@ -1,0 +1,31 @@
+/* src/App.css */
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .resume-section {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: left;
+  }
+  
+  .resume-section h2 {
+    color: #282c34;
+  }
+  
+  .resume-section p {
+    margin: 8px 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
